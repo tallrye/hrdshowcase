@@ -8,7 +8,7 @@
 		<meta name="author" content="Piyetra Creative" />	
 		<meta name="copyright" content="HRD Antwerp" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<link rel="shortcut icon" type="image/png" href="favicon.ico"/>
+		<link rel="shortcut icon" type="image/png" href="{{ url('favicon.ico') }}"/>
 		<link rel="stylesheet" href="{{ url('assets/css/bootstrap.min.css') }}">
 		<link rel="stylesheet" href="{{ url('assets/css/main.css') }}">
 		<link rel="stylesheet" href="{{ url('assets/css/generate.css') }}">
