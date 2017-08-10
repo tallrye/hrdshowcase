@@ -22,7 +22,7 @@
 	<div class="container">
 		<div class="row align-items-center ">
 			<div class="col-12 text-center sub-title">
-				<h2>EDUCATION ACTIVITIES</h2>
+				<h2>ONLINE SALES COURSE CASE STUDIES</h2>
 			</div>
 			<div class="col-12 text-center diamond">
 				<div class="text-center m-auto" id="diamond"></div>
@@ -169,7 +169,7 @@
 		<div class="container">
 			<div class="row mt-4">
 				<div class="col-12 text-center sub-title">
-					<h2>EDUCATION ACTIVITIES</h2>
+					<h2>ONLINE SALES COURSE CASE STUDIES</h2>
 				</div>
 				<div class="col-12 text-center diamond">
 					<div class="text-center m-auto" id="diamond"></div>
