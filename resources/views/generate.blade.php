@@ -19,12 +19,12 @@
             	<form class="form-inline" action="{{ route('store') }}" method="POST">
             		{{ csrf_field() }}
                		<div class="form-group col-12 justify-content-center text-center">
-                  		<input type="number" name="days" class=" form-control mt-4" placeholder="Kaç Gün İçinde Silinecek" required>
+                  		<input type="number" name="days" class=" form-control mt-4" placeholder="Kaç Gün İçinde Silinecek" required style="min-width: 250px;">
                   		<button type="submit" class="mt-4 mr-3 ml-3">Link Oluştur</button>
                		</div>
               		@if(isset($link))
                		<div class="form-group justify-content-center col-12 text-center">
-                  		<input type="text" name="link" id="link" class="form-control mt-4" readonly>
+                  		<input type="text" name="link" id="link" class="form-control mt-4" readonly style="min-width: 250px;">
                  		<span data-clipboard-target="#link" id="clipper" class="mt-4 mr-3 ml-3 clipper likeButton">Linki Kopyala</span>
                		</div>
              		@endif
