@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IACA;EACC,gBAAgB,EAAE,IAAI;;ACAvB,IACA;EACC,gBAAgB,EAAE,GAAG",
+"sources": ["../scss/_font.scss","../scss/main.scss"],
+"names": [],
+"file": "main.min.css"
+}

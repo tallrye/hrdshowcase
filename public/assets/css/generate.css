@@ -1,0 +1,77 @@
+body
+   {
+   height: 100%;
+   background-image: url(../img/background.jpg);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-color: #464646;
+   }
+   .logo1
+   {
+   margin-left:15px;
+   margin-top: 55px;
+   }
+   .form
+   {
+   margin-top: 15%;
+   }
+   .form-control
+   {	background-color: white;
+   border-radius: 8px;
+   border: 1px solid #00a0dd;
+   height: 34px;
+   }
+   button, span.likeButton
+   {height: 34px;
+   border-radius: 8px;
+   border: 1px solid #00a0dd;
+   background-color: white;
+    line-height: 34px;
+    text-align: center;
+    padding: 0px 10px;
+    min-width: 130px;
+   }
+   input::-webkit-input-placeholder,
+   textarea::-webkit-input-placeholder {
+   color: #14a8e0 !important;
+   font-family: "Open Sans";
+   font-size: 14px;
+   font-weight: 700;
+   }
+   input:-moz-placeholder,
+   textarea:-moz-placeholder {
+   color: #14a8e0;
+   font-family: "Open Sans";
+   font-size: 14px;
+   font-weight: 700;
+   }
+   input::-moz-placeholder,
+   textarea::-moz-placeholder {
+   color: #14a8e0;
+   font-family: "Open Sans";
+   font-size: 14px;
+   font-weight: 700;	
+   }
+   input:-ms-input-placeholder,
+   textarea:-ms-input-placeholder {
+   color:#14a8e0;
+   font-family: "Open Sans";
+   font-size: 14px;
+   font-weight: 700;	
+   }
+   @media only screen and (max-width: 1200px) {
+   body
+   {
+   background-position: left bottom;
+   }
+   .logo1
+   {
+   width:80%;
+   }
+   .form
+   {
+   margin-top: 25%;
+   }
+   }

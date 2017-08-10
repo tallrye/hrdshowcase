@@ -1,0 +1,138 @@
+body, html {
+  height: 100%; }
+
+.container-fluid {
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-bottom: -5%; }
+
+h3 {
+  color: #00a1df;
+  font-family: "Open Sans";
+  font-size: 18px;
+  text-transform: uppercase;
+  line-height: 25px; }
+
+h2 {
+  color: #262626;
+  font-family: "Open Sans";
+  font-size: 38px;
+  text-transform: uppercase; }
+
+h1 {
+  color: #262626;
+  font-family: "Open Sans";
+  font-size: 76px;
+  font-weight: 300; }
+
+#diamond {
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-bottom-color: #00a0dd;
+  position: relative;
+  top: -6px; }
+
+#diamond:after {
+  content: '';
+  position: absolute;
+  left: -6px;
+  top: 6px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-top-color: #00a0dd; }
+
+.diamond {
+  margin-top: 26px; }
+
+.logo {
+  margin-top: 36px;
+  margin-left: 43px;
+  position: absolute; }
+
+.sub-title {
+  margin-top: 5%; }
+
+small {
+  padding-top: 20px;
+  font-family: "Open Sans";
+  font-size: 14px; }
+
+@media only screen and (min-width: 2100px) {
+  .sub-title {
+    margin-top: 25%; } }
+@media only screen and (max-width: 1400px) {
+  .container-fluid {
+    height: 77%; } }
+@media only screen and (max-width: 1200px) {
+  .container-fluid {
+    height: 85%;
+    margin-bottom: -150px; }
+
+  .logo {
+    width: 35%; }
+
+  h1 {
+    font-size: 57px; } }
+@media only screen and (max-width: 1025px) and (height: 1366px) {
+  .container-fluid {
+    height: 45%;
+    margin-bottom: -155px; }
+
+  h1 {
+    font-size: 50px; }
+
+  .logo {
+    width: 34%; } }
+@media only screen and (max-width: 979px) {
+  .container-fluid {
+    height: 45%;
+    margin-bottom: -75px; }
+
+  h1 {
+    font-size: 50px; }
+
+  .logo {
+    width: 34%; } }
+@media only screen and (max-width: 767px) {
+  .container-fluid {
+    height: 150%; }
+
+  .logo {
+    width: 60%;
+    margin-top: 24%;
+    margin-left: 20%; }
+
+  h1 {
+    font-size: 46px; }
+
+  h3 {
+    font-size: 16px; }
+
+  .title {
+    margin-top: 350px !important; }
+
+  .sub-title {
+    margin-top: 50px; } }
+@media only screen and (max-width: 480px) {
+  .container-fluid {
+    height: 77%; }
+
+  .title {
+    margin-top: 50% !important; }
+
+  .logo {
+    width: 60%;
+    margin-top: 20%;
+    margin-left: 20%; } }
+@media only screen and (max-width: 320px) {
+  .container-fluid {
+    height: 95%; } }
+
+/*# sourceMappingURL=main.css.map */
