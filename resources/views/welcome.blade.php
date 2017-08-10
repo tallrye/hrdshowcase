@@ -22,7 +22,7 @@
 	<div class="container">
 		<div class="row align-items-center ">
 			<div class="col-12 text-center sub-title">
-				<h2>ONLINE SALES COURSE CASE STUDIES</h2>
+				<h2>EDUCATION ACTIVITIES</h2>
 			</div>
 			<div class="col-12 text-center diamond">
 				<div class="text-center m-auto" id="diamond"></div>
@@ -48,7 +48,7 @@
 	<div class="container">
 		<div class="row mt-4">
 			<div class="col-12 text-center sub-title">
-				<h2>Online Sales Course Content</h2>
+				<h2>ONLINE SALES COURSE CONTENT</h2>
 			</div>
 			<div class="col-12 text-center diamond ">
 				<div class="text-center m-auto" id="diamond"></div>
@@ -178,45 +178,46 @@
 				<div class="col-md-12 text-center">
 					
 					<iframe src="https://player.vimeo.com/video/200135088" width="100%" height="208" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-					<small class="text-center">Lesson 1</small>
+					<small class="text-center">Case Study 1</small>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6  mt-5">
 				<div class="col-md-12 text-center">
 					
 					<iframe src="https://player.vimeo.com/video/200136838" width="100%" height="208" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-					<small class="text-center m-auto">Lesson 2</small>
+					<small class="text-center m-auto">Case Study 2</small>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6  mt-5">
 				<div class="col-md-12 text-center">
 					
 					<iframe src="https://player.vimeo.com/video/200136902" width="100%" height="208" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-					<small class="text-center m-auto">Lesson 3</small>
+					<small class="text-center m-auto">Case Study 3</small>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6  mt-5">
 				<div class="col-md-12 text-center">
 					
 					<iframe src="https://player.vimeo.com/video/200136978" width="100%" height="208" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-					<small class="text-center">Lesson 4</small>
+					<small class="text-center">Case Study 4</small>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6  mt-5">
 				<div class="col-md-12 text-center">
 					
 					<iframe src="https://player.vimeo.com/video/200137215" width="100%" height="208" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-					<small class="text-center m-auto">Lesson 5</small>
+					<small class="text-center m-auto">Case Study 5</small>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6  mt-5">
 				<div class="col-md-12 text-center">
 					
 					<iframe src="https://player.vimeo.com/video/200137392" width="100%" height="208" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-					<small class="text-center m-auto">Lesson 6</small>
+					<small class="text-center m-auto">Case Study 6</small>
 				</div>
 			</div>
 			</div>
 		</div>
 	</div>
+	<div style="height:70px;"></div>
 @endsection
