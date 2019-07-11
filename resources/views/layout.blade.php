@@ -15,6 +15,8 @@
 		<link rel="stylesheet" type="text/css" href="{{ url('css/sweetalert.css') }}" />
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
 	@yield('styles')
+
+	
 </head>
 <body>
 	@yield('content')
